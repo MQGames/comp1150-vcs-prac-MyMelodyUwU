@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 119
+  controlID: 123
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 59
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,9 +376,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.88267916, y: -0.55213505, z: -2.149681}
+    m_Target: {x: -2.165129, y: -1.4381919, z: -5.916588}
     speed: 2
-    m_Value: {x: -0.88267916, y: -0.55213505, z: -2.149681}
+    m_Value: {x: -2.1666012, y: -1.4392091, z: -5.9166555}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -428,9 +428,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.7070146
+    m_Target: 10.702202
     speed: 2
-    m_Value: 3.7070146
+    m_Value: 10.710233
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -549,20 +549,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/platformerGraphicsDeluxe/Enemies
+    - Assets/platformerGraphicsDeluxe/Items
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/platformerGraphicsDeluxe/Enemies
+  - Assets/platformerGraphicsDeluxe/Items
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\JeeTengOng\Documents\comp1150-vcs-prac-MyMelodyUwU\pracOneAndTwo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7e390000
-    m_LastClickedID: 14718
-    m_ExpandedIDs: 00000000743900007a39000000ca9a3b
+    m_SelectedIDs: 90390000
+    m_LastClickedID: 14736
+    m_ExpandedIDs: 000000007e3900008439000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -590,7 +590,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000074390000
+    m_ExpandedIDs: 000000007e390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
